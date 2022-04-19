@@ -15,11 +15,11 @@ endpoints:
 
 
     Headers:
-    * Content-Type: application/json - <REQUIRED>
+    * Content-Type: application/json - REQUIRED
 
     Parameters:
-    * conversation_id - <REQUIRED>
-    * message - <REQUIRED>
+    * conversation_id - REQUIRED
+    * message - REQUIRED
 
     Response:
     * response_id
