@@ -8,7 +8,7 @@ Prerequisites:
 - Run `npm install` to install API dependencies.
 - Run `npm start` to start the API.
 
-base URL: `http://localhost:3000`
+base URL: `http://localhost:3000/api`
 
 endpoints:
 - POST `/message`
